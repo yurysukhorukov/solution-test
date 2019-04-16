@@ -11,6 +11,7 @@ public class Solution {
 
     // Complete the minimumNumber function below.
     static int minimumNumber(int n, String password) {
+        //Check synchronization 
         // Return the minimum number of characters to make the password strong
         int sym = 0;
         String numbers = "0123456789";
